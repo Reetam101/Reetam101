@@ -26,5 +26,5 @@ My name is Reetam Chatterjee and I am a software developer. I :blue_heart: codin
 
 ## Social Media
 
-[![Linkedin Badge](https://img.shields.io/badge/-ReetamChatterjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reetam-chatterjee-227a23190/)](https://www.linkedin.com/in/jayraj-roshan/)
+[![Linkedin Badge](https://img.shields.io/badge/-ReetamChatterjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reetam-chatterjee-227a23190/)](https://www.linkedin.com/in/reetam-chatterjee-227a23190/)
 [![Gmail Badge](https://img.shields.io/badge/-ReetamChatterjee-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reetamraj2@gmail.com)](mailto:reetamraj2@gmail.com)
