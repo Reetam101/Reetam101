@@ -22,7 +22,7 @@ My name is Reetam Chatterjee and I am a software developer. I :blue_heart: codin
 
 - Web Development
 - Competitive Coding
-- Internet of Things
+- Machines Learning
 
 ## Social Media
 
