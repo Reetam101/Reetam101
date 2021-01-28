@@ -1,9 +1,9 @@
 # Hey folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Reetam Chatterjee and I am a software developer. I :blue_heart: coding. I am currently an University student.
+My name is Reetam Chatterjee and I am a Software Developer and a Machine Learning AI enthusiast. I :blue_heart: coding. I am currently an University student.
 
 - 🔭 I’m currently working on web development projects :computer:
-- 🌱 I’m currently learning everything :satisfied:
+- 🌱 Machine Learning :satisfied:
 
 ## &#x1f4c8; GitHub Stats
 
