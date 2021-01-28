@@ -3,7 +3,7 @@
 My name is Reetam Chatterjee and I am a Software Developer and a Machine Learning AI enthusiast. I :blue_heart: coding. I am currently an University student.
 
 - 🔭 I’m currently working on web development projects :computer:
-- 🌱 Machine Learning :satisfied:
+- 🌱 Machine Learning
 
 ## &#x1f4c8; GitHub Stats
 
