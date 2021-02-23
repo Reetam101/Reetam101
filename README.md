@@ -12,6 +12,10 @@ My name is Reetam Chatterjee and I am a Software Developer and a Machine Learnin
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetam101&hide=html&theme=dark" />
 
+<div align="center">
+<a href="https://drive.google.com/file/d/1LV1XIQ-IZ2bC0HvA4rfobTOmNE0gV0VB/view?usp=sharing"> <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="300px" height="300px" target="_blank"></a>
+</div>
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=98c90f)
