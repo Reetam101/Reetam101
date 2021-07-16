@@ -19,11 +19,14 @@ My name is Reetam Chatterjee and I am a Software Developer and a Machine Learnin
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=98c90f)
+![](https://img.shields.io/badge/Editor-Sublime%20Text-informational?style=flat&logo=sublime-text&logoColor=orange&color=98c90f)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=618009)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=618009)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=618009)
+![](https://img.shields.io/badge/-c++-black?style=flat&logo=c%2B%2B&style=social&color=618009)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=b4ee11&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=b4ee11&color=2bbc8a)
 
 ## ⚡ Domains:
 
