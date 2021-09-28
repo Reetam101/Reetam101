@@ -30,9 +30,8 @@ My name is Reetam Chatterjee and I am a Software Developer and a Machine Learnin
 ## ⚡ Domains:
 
 - Web Development
-- App Development
 - Competitive Coding
-- Machine Learning
+- Machine Learning and AI
 
 ## Social Media
 
