@@ -7,12 +7,8 @@ My name is Reetam Chatterjee and I am a Software Developer and a Machine Learnin
 - Understanding Data Structures and Algorithms
 - Learning Machine Learning Algorithms
 
-## &#x1f4c8; GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetam101&hide=html&theme=dark" />
-
 <div align="center">
-<a href="https://drive.google.com/file/d/15gzGY_N2pmvu_vqcS8_3IVDkHmfYL2jt/view?usp=sharing"> <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="300px" height="300px" target="_blank"></a>
+<a href="https://drive.google.com/file/d/1fjqYorUf26S3LvJJH1xQ5VLsvSDrsojw/view?usp=sharing"> <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="300px" height="300px" target="_blank"></a>
 </div>
 
 ## 🔧 Technologies & Tools
@@ -49,7 +45,6 @@ My name is Reetam Chatterjee and I am a Software Developer and a Machine Learnin
  </div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
