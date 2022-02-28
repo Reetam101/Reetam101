@@ -13,15 +13,16 @@ My name is Reetam Chatterjee and I am a Software Developer and a Machine Learnin
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=98c90f)
-![](https://img.shields.io/badge/Editor-Sublime%20Text-informational?style=flat&logo=sublime-text&logoColor=orange&color=98c90f)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=618009)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=618009)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=618009)
-![](https://img.shields.io/badge/-c++-black?style=flat&logo=c%2B%2B&style=social&color=618009)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=b4ee11&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=b4ee11&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=98c90f&labelColor=black)
+![](https://img.shields.io/badge/Editor-Sublime%20Text-informational?style=flat&logo=sublime-text&logoColor=orange&color=98c90f&labelColor=black)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&labelColor=black&logo=python&color=003366)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=ff0800&color=003366&labelColor=black)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=0892d0&labelColor=black)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0892d0&labelColor=black)
+![](https://img.shields.io/badge/-c++-black?style=flat&logo=c%2B%2B&style=social&color=618009&labelColor=black)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a&labelColor=black)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=b4ee11&color=2bbc8a&labelColor=black)
+![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=b4ee11&color=2bbc8a&labelColor=black)
 
 ## ⚡ Domains:
 
@@ -41,7 +42,7 @@ My name is Reetam Chatterjee and I am a Software Developer and a Machine Learnin
  <td valign="top" width="33%">
  
 <div align="center">
- <h2> <b> Frontend/Tools </b> </h2>
+ <h2> <b> Frontend </b> </h2>
  </div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
