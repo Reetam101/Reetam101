@@ -55,3 +55,5 @@ My name is Reetam Chatterjee and I am a Software Developer and a Machine Learnin
 [![Gmail Badge](https://img.shields.io/badge/-ReetamChatterjee-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reetamraj2@gmail.com)](mailto:reetamraj2@gmail.com)
 <br></br>
 ![Reetam's GitHub stats](https://github-readme-stats.vercel.app/api?username=reetam101&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetam101&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/reetam101/github-readme-stats)
