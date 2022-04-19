@@ -1,11 +1,11 @@
 # Hi there! I am Reetam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Reetam Chatterjee and I am a Software Developer and a Machine Learning & AI enthusiast. I :blue_heart: coding and solving problems. I am currently an University student completing my Btech degree in Computer Science & Information Technology.
+My name is Reetam Chatterjee and I am a Fullstack Web Developer and a problem solver. I :blue_heart: coding and solving problems. I am currently an University student completing my Btech degree in Computer Science & Information Technology.
 
 - 🔭 I’m currently looking for Software Developement Engineer roles
-- Working on Web Development projects
+- Working on Software Development (web) projects
 - Understanding Data Structures and Algorithms
-- Learning Machine Learning Algorithms
+- Solving problems
 <!-- 
 <div align="center">
 <a href="https://drive.google.com/file/d/1fjqYorUf26S3LvJJH1xQ5VLsvSDrsojw/view?usp=sharing"> <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="300px" height="300px" target="_blank"></a>
