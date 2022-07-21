@@ -2,7 +2,7 @@
 
 My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding and solving problems. I am currently an University student completing my Btech degree in Computer Science & Information Technology.
 
-- 🔭 I’m currently looking for Software Developement Engineer roles
+- 🔭 I’m currently looking for SDE roles
 - Working on Fullstack Web Dev projects.
 - Understanding Data Structures and Algorithms.
 - Solving problems.
