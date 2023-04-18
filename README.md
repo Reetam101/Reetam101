@@ -7,6 +7,8 @@ My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding
 - Worked on Fullstack Web Dev projects.
 - Solving problems.
 
+# :page_facing_up: [My Resume](https://drive.google.com/file/d/1jbfyQQ4MlkzwjwMlYgys8h1tanuXekKB/view?usp=share_link) 
+
 ## 🔧 Programming Languages
 <span>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
