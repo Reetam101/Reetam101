@@ -1,13 +1,13 @@
 # Hi there! I am Reetam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding and solving problems. I am currently an University student completing my Btech degree in Computer Science & Information Technology.
+My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding and solving problems. I have completed my Btech degree in Computer Science & Information Technology this year(2023) and I am looking job opportunities (SDE & SWE roles).
 
 - 🔭 I’m currently looking for Software Engineering roles.
 - Started learning Data Engineering.
-- Worked on Fullstack Web Dev projects.
-- Solving problems.
+- Working on Fullstack Web Dev projects.
+- Solving problems through code.
 
-# :page_facing_up: [My Resume](https://drive.google.com/file/d/1jbfyQQ4MlkzwjwMlYgys8h1tanuXekKB/view?usp=share_link) 
+# :page_facing_up: [My Resume](https://drive.google.com/file/d/1lg3v2ThWVI1Tqjprv3TQlQdrfQDD7JUN/view?usp=sharing) 
 
 ## :wrench: Programming Languages
 <span>
