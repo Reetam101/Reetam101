@@ -3,7 +3,7 @@
 My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding and solving problems. I have completed my Btech degree in Computer Science & Information Technology this year(2023) and I am looking job opportunities (SDE & SWE roles).
 
 - 🔭 I’m currently looking for Software Engineering roles.
-- Started learning Data Engineering.
+- Learning React Native.
 - Working on Fullstack Web Dev projects.
 - Solving problems through code.
 
@@ -19,7 +19,8 @@ My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding
 ## :gear: Libraries & Frameworks
 <span>
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,html,css,react,redux,flask,spring,spring-boot" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,html,css,react,redux,flask,spring" />
+       <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 </span>
 
@@ -38,7 +39,7 @@ My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding
    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=flat-square&logo=Insomnia&logoColor=white" />
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,git,vscode,webpack" />
   </a>
 </span>
 
