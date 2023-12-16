@@ -12,7 +12,7 @@ My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding
 ## :wrench: Programming Languages
 <span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,javascript,python,java" />
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,python,java" />
   </a>
 </span>
 
