@@ -20,7 +20,7 @@ My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding
 ## :gear: Libraries & Frameworks
 <span>
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,html,css,react,redux,flask,spring,nextjs," />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,html,css,react,redux,flask,spring,nextjs,angular" />
        <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       
   </a>
