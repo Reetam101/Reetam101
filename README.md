@@ -3,10 +3,10 @@
 My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding and solving problems. I have completed my Btech degree in Computer Science & Information Technology this year(2023) and I am looking job opportunities (SDE & SWE roles).
 
 - 🔭 I’m currently looking for Software Engineering roles and freelancing projects.
-- Learn Next.js 14.
-- Learning React Native.
-- Working on Fullstack Web Dev projects.
+- Learn Spring Boot.
+- Working on Fullstack projects (mobile and web).
 - Solving problems through code.
+- Building software.
 
 # :page_facing_up: [My Resume](https://drive.google.com/file/d/1AJR0IBKcTWxU6J0-7Rk_D5lWK9J0ugm1/view?usp=sharing)
 
@@ -38,17 +38,18 @@ My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding
    <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-47A248?style=flat-square&logo=anaconda&logoColor=white" />
   <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white" />
-   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=flat-square&logo=Insomnia&logoColor=white" />
+   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,vscode,webpack" />
+    <img src="https://skillicons.dev/icons?i=bash,git,vscode,webpack,kafka" />
   </a>
 </span>
 
 ## ⚡ Domains:
-- Software Development
-- Data Engineering
-- Machine Learning and AI
+- Web Development
+- Mobile App Development
+- API Development and Deployment.
 
 ## Links
 [![Kaggle Bade](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/reetamchatterjee)
