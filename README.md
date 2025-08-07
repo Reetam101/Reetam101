@@ -3,7 +3,7 @@
 My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding and solving problems. I have completed my Btech degree in Computer Science & Information Technology this year(2023) and I am looking job opportunities (SDE & SWE roles).
 
 - 🔭 I’m currently looking for Software Engineering roles and freelancing projects.
-- Learn Spring Boot.
+- Learning Spring Boot.
 - Working on Fullstack projects (mobile and web).
 - Solving problems through code.
 - Building software.
