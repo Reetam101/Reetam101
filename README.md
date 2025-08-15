@@ -57,5 +57,5 @@ My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding
 [![Gmail Badge](https://img.shields.io/badge/-ReetamChatterjee-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reetamraj2@gmail.com)](mailto:reetamraj2@gmail.com)
 <br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reetam101&show=icons,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetam101&layout=donut&hide=jupyter%20%notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Reetam's GitHub stats](https://github-readme-stats.vercel.app/api?username=reetam101&show=icons,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetam101&langs_count=10&layout=donut&hide=jupyter%20%notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
