@@ -1,6 +1,6 @@
 # Hi there! I am Reetam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding and solving problems. I have completed my Btech degree in Computer Science & Information Technology this year(2023) and I am looking job opportunities (SDE & SWE roles).
+My name is Reetam Chatterjee and I am an Experienced Senior Software Engineer. I :blue_heart: programming and solving problems. I have completed my Btech degree in Computer Science & Information Technology this year(2023) and I am open to job opportunities (SDE & SWE roles).
 
 - 🔭 I’m currently looking for Software Engineering roles and freelancing projects.
 - Learning Spring Boot.
@@ -20,7 +20,7 @@ My name is Reetam Chatterjee and I am a Software Engineer. I :blue_heart: coding
 ## :gear: Libraries & Frameworks
 <span>
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,html,css,react,redux,flask,spring,nextjs,angular" />
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,html,css,react,redux,flask,spring,nextjs,angular" />
        <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       
   </a>
